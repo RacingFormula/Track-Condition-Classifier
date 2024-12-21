@@ -1,0 +1,9 @@
+Temperature,Humidity,TyreWear,LapTime,TrackCondition
+30,60,15,85.2,Dry
+22,85,40,92.5,Wet
+25,70,20,88.1,Damp
+28,65,18,86.3,Dry
+20,90,50,95.0,Wet
+24,75,30,90.5,Damp
+27,60,12,84.7,Dry
+21,88,45,93.8,Wet
